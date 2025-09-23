@@ -1162,3 +1162,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/LittlerootTown_Mart/scripts.inc"
 
 	.include "data/maps/LittlerootTown_PokemonCenter/scripts.inc"
+
+	.include "data/maps/Route23/scripts.inc"

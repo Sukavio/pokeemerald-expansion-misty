@@ -302,7 +302,7 @@
 #define VAR_MON_BOX_POS               0x8013
 #define VAR_UNUSED_0x8014             0x8014
 #define VAR_TRAINER_BATTLE_OPPONENT_A 0x8015 // Alias of TRAINER_BATTLE_PARAM.opponentA
-
+// #define VAR_TALKED_COUNT              0x8016
 #define SPECIAL_VARS_END              0x8015
 
 // If an overworld trigger uses this pseudo-variable as the trigger check,
